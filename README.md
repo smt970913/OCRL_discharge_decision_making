@@ -1,3 +1,3 @@
-# discharge_decision_making
+# Discharge Decision Making with Multiple Readmissions and Constraints
 
-This is the code repository for our discharge decision-making project.
+
